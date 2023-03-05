@@ -1,1 +1,1 @@
-# Accelerated-FDTD-Solver
+# High-Speed FDTD Solver
